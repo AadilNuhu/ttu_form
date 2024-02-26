@@ -96,6 +96,7 @@ span{
     letter-spacing: -7px;
 }
 
+/*############################ FOR MOBILE SIZE ################################*/
 @media screen and (max-width:600px) {
     .container{
         margin: 15px;
